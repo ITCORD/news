@@ -4,9 +4,21 @@
         <title>커피팟 ─ 라이브러리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 12:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 13:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		☕️☕️ 쇼피파이의 새로운 움직임																			N]]></title>
+            <link>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9474093&amp;t=board</link>
+            <guid>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9474093&amp;t=board</guid>
+            <pubDate>Sun, 16 Jan 2022 13:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[1. 다시 만난 메타, 2. 쇼피파이 오프라인, 3. 승차공유 2.0]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220116/561dd04b497ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -102,18 +114,6 @@
             <pubDate>Fri, 14 Jan 2022 17:25:23 GMT</pubDate>
             <content:encoded><![CDATA[1. 타겟 맞춘 온라인 B2B, 2. 소셜미디어 &gt; TV, 3. 서브스택의 의료보험]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20211208/91b72193d84b2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		☕️☕️ 시프트 중인 전기차의 핵심]]></title>
-            <link>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9064977&amp;t=board</link>
-            <guid>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9064977&amp;t=board</guid>
-            <pubDate>Fri, 14 Jan 2022 17:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[1. 배터리 소재 변화, 2. 블록 = 스퀘어, 3. 틱톡의 물류 투자]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20211206/9769da5b206c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
