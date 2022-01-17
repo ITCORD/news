@@ -17,6 +17,12 @@
 - CIO Korea: http://www.ciokorea.com/rss/feed/index.php
 - 보안뉴스: https://www.boannews.com/custom/news_rss.asp
 
+## Newsletter
+- https://itcord.github.io/news/coffeepot.xml
+- https://itcord.github.io/news/coffeepot_library.xml
+- https://itcord.github.io/news/coffeepot_longform.xml
+- https://itcord.github.io/news/mirakle_news.xml
+
 ## [Product](https://github.com/ITCORD/product) 
 https://itcord.github.io/product/all.xml
 - GeekNews 
