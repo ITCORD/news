@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 06:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -679,6 +679,14 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20210711/64c7db86a4b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HR 플랫폼 플렉스, 380억 원 규모 시리즈B 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</guid>
+            <pubDate>Tue, 18 Jan 2022 06:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[HR 플랫폼을 제공하는 스타트업 ‘플렉스(flex 대표 장해남)’가 380억 원 규모의 시리즈B 투자를 유치했다고 18일 밝혔다.  이번 투자 라운드는 글로벌 투자 회사인 그린옥스캐피탈이 주도하고 DST글로벌 파트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_53111_16424850744921094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아산나눔재단, ‘아산 유스프러너 데모데이’ 온라인 진행 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=49083</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=49083</guid>
@@ -749,14 +757,6 @@
             <pubDate>Sun, 16 Jan 2022 17:29:49 GMT</pubDate>
             <content:encoded><![CDATA[디지털 교육 실습 플랫폼 엘리스(대표 김재원)가 무료 수강이 가능한 ‘K-디지털 크레딧(K-Digital Credit, KDC)’의 새로운 교육생을 모집한다.   K-디지털 크레딧은 고용노동부가 청년, 중장년 구직자의 디지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_38259_16420393144916246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매쉬업엔젤스, 크리에이터 제작 기반 카메라 콘텐츠 플랫폼 ‘캐럿’에 투자 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=37890</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=37890</guid>
-            <pubDate>Sun, 16 Jan 2022 17:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[초기 스타트업 전문 투자사 `매쉬업엔젤스(대표파트너 이택경)’가 크리에이터 참여 기반의 카메라 콘텐츠 플랫폼 ‘캐럿’ 운영사 ‘패러닷(대표 장진욱)’에 초기 투자를 했다고 13일 밝혔다.  패러닷은 카카..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_37890_16420360544916164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
