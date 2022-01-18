@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -679,6 +679,14 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20210711/64c7db86a4b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전통문화분야 청년 창업육성 액셀러레이팅, ABLE K-Culture 시즌2 데모데이 성료 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53695</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53695</guid>
+            <pubDate>Tue, 18 Jan 2022 07:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[㈜에이블벤처스(대표 성상기)가 “2021년 전통문화 청년 창업육성 지원사업”의 IR피칭 행사인 ABLE K-Culture 시즌2 데모데이를 서울 역삼동 소재 세바시 데마코홀에서 지난 14일 개최했다. 행사는 문화체육관..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_53695_16424896364921214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HR 플랫폼 플렉스, 380억 원 규모 시리즈B 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</guid>
@@ -749,14 +757,6 @@
             <pubDate>Sun, 16 Jan 2022 17:29:49 GMT</pubDate>
             <content:encoded><![CDATA[핑크퐁 아기상어가 전 세계 유튜브 조회수 1위에 이어, ‘100억뷰’ 영상에 등극하며 또 한 번 신기록을 경신했다.  글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)는 ‘핑크퐁 아기상어 체조(Baby..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_40396_16420601224916861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스, ‘K-디지털 크레딧’ 과정 교육생 모집 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=38259</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=38259</guid>
-            <pubDate>Sun, 16 Jan 2022 17:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 교육 실습 플랫폼 엘리스(대표 김재원)가 무료 수강이 가능한 ‘K-디지털 크레딧(K-Digital Credit, KDC)’의 새로운 교육생을 모집한다.   K-디지털 크레딧은 고용노동부가 청년, 중장년 구직자의 디지..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_38259_16420393144916246.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
