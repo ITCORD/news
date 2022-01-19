@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젤리크루, 인기 크리에이터 ‘쿠킹쿠키’ 네이버 쇼핑라이브]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=57429</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=57429</guid>
+            <pubDate>Wed, 19 Jan 2022 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터 브랜드 플랫폼 젤리크루(대표 박준홍)는 인기 일러스트 크리에이터 `쿠킹쿠키`의 네이버 쇼핑라이브를 19일 오후 7시 30분에 진행한다고 밝혔다.   이번 ‘쿠킹쿠키’ 네이버 쇼핑 라이브에서는 첫 공..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_57429_16425754384922490.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가니카,  최대 국영기업 투자사로부터 해외투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=55671</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 01:18:20 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(공동대표 김유진, 김호민, 버나드 문, 이한주)이 18기 스타트업 육성 프로그램에 참여할 14개사를 선정하고 본격적인 프로그램을 운영한다고 17일 밝혔다.  이번 스파크랩 18기에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47713_16423797684919451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본엔젤스, 1200억원 규모 시드 투자 펀드 ‘페이스메이커펀드4’ 결성 완료]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=43830</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=43830</guid>
-            <pubDate>Sun, 16 Jan 2022 17:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[본엔젤스벤처파트너스(이하 ‘본엔젤스’)가 1200억원 규모의 신규 펀드 ‘페이스메이커펀드4’ 결성을 완료했다고 밝혔다.   본엔젤스는 국내 최초의 초기 투자 전문 벤처캐피털 및 액셀러레이터로서 초기 스타트..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_43830_16421478774918130.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
