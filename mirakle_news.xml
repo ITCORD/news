@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교보생명 이노스테이지 3기 데모데이 성료.. 대상은 ‘빌리지베이비’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=62431</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=62431</guid>
+            <pubDate>Thu, 20 Jan 2022 11:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[보험 분야의 본업 경쟁력을 높이고 신사업모델을 발굴하기 위한 교보생명의 오픈 이노베이션 프로그램 ‘이노스테이지 3기’ 온라인 데모데이가 지난 19일 개최되었다.  교보 이노스테이지 3기는 작년 2기에 이어 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_62431_16426751234924085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핀테크 스타트업 `페이워치`, 63억원 국내외 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=61627</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 02:33:40 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초로 실내 주차 공간에서 실시간으로 빈 주차면을 안내하는 ‘워치마일(Watchmile)’ 서비스를 개발, 운영하는 ㈜베스텔라랩 (대표: 정상수)이 우리나라 대표적인 랜드마크인 서울역 주차장에 실내 주차 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_55510_16425552354922080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통문화분야 청년 창업육성 액셀러레이팅, ABLE K-Culture 시즌2 데모데이 성료]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53695</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53695</guid>
-            <pubDate>Tue, 18 Jan 2022 07:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[㈜에이블벤처스(대표 성상기)가 “2021년 전통문화 청년 창업육성 지원사업”의 IR피칭 행사인 ABLE K-Culture 시즌2 데모데이를 서울 역삼동 소재 세바시 데마코홀에서 지난 14일 개최했다. 행사는 문화체육관..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_53695_16424896364921214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
