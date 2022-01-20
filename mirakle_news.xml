@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 01:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디카코리아-인코스팜 업무협력 협정서(MOU) 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=59846</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=59846</guid>
+            <pubDate>Thu, 20 Jan 2022 02:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[전문의약품 제조회사 (주)메디카코리아(대표 김현식)와 화장품 및 의약품 원료연구개발 기업 ㈜인코스팜(대표 박기돈)은 지난 18일 ‘의약기술 기반 펩타이드 소재 개발’을 위한 업무협약(MOU)을 체결했다고 20..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_59846_16426452634923363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오피스체크인, 공실건물 내부 VR로 살펴보는 서비스 제공]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=59182</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 05:24:19 GMT</pubDate>
             <content:encoded><![CDATA[아산나눔재단(이사장 장석환)이 서울 강남구 역삼동 마루180에서 ‘아산 유스프러너 데모데이’를 개최했다고 17일 밝혔다.   아산 유스프러너는 아산나눔재단의 청소년 기업가정신 교육 프로그램으로 전국 중고등..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_49083_16423970414919780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또다시 먹통에 사업주들 혼란, 전자출입명부 KI-PASS 앱]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=47888</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=47888</guid>
-            <pubDate>Mon, 17 Jan 2022 01:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[한 달 전인 12월 13일 디지털 백신 접종 완료 증명서 COOV 앱이 마비되며 많은 이들이 불편을 겪은 데 이어, 지난 1월 6일에는 영업장에서 사용하는 전자출입명부 앱 KI-PASS가 5시간 동안 접속 장애를 일으켰다.  K..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47888_16423818034919506.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
