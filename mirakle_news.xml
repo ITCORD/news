@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오피스체크인, 공실건물 내부 VR로 살펴보는 서비스 제공]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=59182</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=59182</guid>
+            <pubDate>Thu, 20 Jan 2022 01:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[업무용 부동산 정보 플랫폼 오피스체크인이 가상현실(VR)답사 서비스를 제공한다고 20일 밝혔다.   오피스체크인은 지난해 12월부터 오피스체크인에 등록된 11개 건물의 공간 정보를 VR을 통해서 제공한다. 이를 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_59182_16426395864923217.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤리크루, 인기 크리에이터 ‘쿠킹쿠키’ 네이버 쇼핑라이브]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=57429</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 01:18:20 GMT</pubDate>
             <content:encoded><![CDATA[한 달 전인 12월 13일 디지털 백신 접종 완료 증명서 COOV 앱이 마비되며 많은 이들이 불편을 겪은 데 이어, 지난 1월 6일에는 영업장에서 사용하는 전자출입명부 앱 KI-PASS가 5시간 동안 접속 장애를 일으켰다.  K..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47888_16423818034919506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파크랩, 18기 액셀러레이팅 프로그램 14개 스타트업 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=47713</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=47713</guid>
-            <pubDate>Mon, 17 Jan 2022 01:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(공동대표 김유진, 김호민, 버나드 문, 이한주)이 18기 스타트업 육성 프로그램에 참여할 14개사를 선정하고 본격적인 프로그램을 운영한다고 17일 밝혔다.  이번 스파크랩 18기에..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47713_16423797684919451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
