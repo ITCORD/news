@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핀테크 스타트업 `페이워치`, 63억원 국내외 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=61627</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=61627</guid>
+            <pubDate>Thu, 20 Jan 2022 07:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최초 급여 선지급 서비스를 선보인 핀테크 스타트업 페이워치(Paywatch)가 해외 유명 투자사들이 주관하는 시드 펀딩 라운드에서 63억원 투자를 유치했다. 이번 투자는 미국 벤처 캐피탈사 서드프라임 등 해..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_61627_16426624554923688.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비트썸원, 미디어그룹 얼반웍스와 전략적 사업제휴(MOU)체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=60469</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 07:23:04 GMT</pubDate>
             <content:encoded><![CDATA[㈜에이블벤처스(대표 성상기)가 “2021년 전통문화 청년 창업육성 지원사업”의 IR피칭 행사인 ABLE K-Culture 시즌2 데모데이를 서울 역삼동 소재 세바시 데마코홀에서 지난 14일 개최했다. 행사는 문화체육관..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_53695_16424896364921214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HR 플랫폼 플렉스, 380억 원 규모 시리즈B 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=53111</guid>
-            <pubDate>Tue, 18 Jan 2022 06:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[HR 플랫폼을 제공하는 스타트업 ‘플렉스(flex 대표 장해남)’가 380억 원 규모의 시리즈B 투자를 유치했다고 18일 밝혔다.  이번 투자 라운드는 글로벌 투자 회사인 그린옥스캐피탈이 주도하고 DST글로벌 파트..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_53111_16424850744921094.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
