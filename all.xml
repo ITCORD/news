@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 01:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -679,6 +679,14 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20210711/64c7db86a4b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베스핀글로벌, 남미 MSP 기업 세르티카社에 ‘옵스나우’ 공급 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=63694</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=63694</guid>
+            <pubDate>Fri, 21 Jan 2022 02:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 남미 대표  클라우드 전문 기업인 ‘세르티카(Xertica)’와 함께 라틴아메리카 시장에 클라우드 관리 플랫폼인 ‘옵스나우(OpsNow)’를 공급하는 파..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_63694_16427288884924427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교보생명 이노스테이지 3기 데모데이 성료.. 대상은 ‘빌리지베이비’ (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=62431</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=62431</guid>
@@ -749,14 +757,6 @@
             <pubDate>Wed, 19 Jan 2022 02:33:40 GMT</pubDate>
             <content:encoded><![CDATA[스타트업을 위한 금융 서비스를 제공하는 B2B 핀테크 기업 고위드(대표 김항기)가 모두싸인(대표 이영준)과 스타트업 전용 SaaS 커머스 확장을 위한 업무 협약을 체결했다고 19일 밝혔다. 이번 협약식에는 고위..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_55567_16425556224922092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스텔라랩, 서울역 주차장용 실내 주차 내비게이션 구축 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=55510</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=55510</guid>
-            <pubDate>Wed, 19 Jan 2022 02:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최초로 실내 주차 공간에서 실시간으로 빈 주차면을 안내하는 ‘워치마일(Watchmile)’ 서비스를 개발, 운영하는 ㈜베스텔라랩 (대표: 정상수)이 우리나라 대표적인 랜드마크인 서울역 주차장에 실내 주차 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_55510_16425552354922080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
