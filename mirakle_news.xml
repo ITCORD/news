@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타트업얼라이언스, ‘초보 창업자를 위한 HR가이드북’ 발간]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=71369</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=71369</guid>
+            <pubDate>Mon, 24 Jan 2022 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업얼라이언스(센터장 최항집)가 HR의 이론과 실무의 조화를 이루는 방법을 담은 ‘초보 창업자를 위한 HR 가이드북’을 발간했다.   24일 스타트업얼라이언스는 ‘초보 창업자를 위한 HR 가이드북’을 발간..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_71369_16430059334927193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스터닝, 디자인 상생 플랫폼 `라우드마켓` 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=69920</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[크리에이터 브랜드 플랫폼 젤리크루(대표 박준홍)는 인기 일러스트 크리에이터 `쿠킹쿠키`의 네이버 쇼핑라이브를 19일 오후 7시 30분에 진행한다고 밝혔다.   이번 ‘쿠킹쿠키’ 네이버 쇼핑 라이브에서는 첫 공..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_57429_16425754384922490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가니카,  최대 국영기업 투자사로부터 해외투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=55671</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=55671</guid>
-            <pubDate>Wed, 19 Jan 2022 02:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[식물성혁신푸드 기업 올가니카(대표이사 양영란)는 중국 최대 국영기업인 중신그룹(CITIC)의 씨틱캐피탈(CITIC Capital)과 투자협약을 맺고 해외 투자를 유치했다고 13일 밝혔다. 투자 규모는 최대 3600만 달러..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_55671_16425564564922105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
