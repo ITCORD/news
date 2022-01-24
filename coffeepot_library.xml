@@ -4,9 +4,21 @@
         <title>커피팟 ─ 라이브러리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 03:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 04:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		☕️☕️ 아마존의 새로운 실험																			N]]></title>
+            <link>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9654775&amp;t=board</link>
+            <guid>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9654775&amp;t=board</guid>
+            <pubDate>Mon, 24 Jan 2022 04:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[1. 오프라인 의류 매장, 2. 펠로톤의 추락, 3. 엑손모빌의 발표]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220124/1980c06dbe65b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -102,18 +114,6 @@
             <pubDate>Fri, 14 Jan 2022 17:25:23 GMT</pubDate>
             <content:encoded><![CDATA[1. 아마존의 계획된 확장, 2. 똑똑한 차 경쟁, 3. 스포티파이 랩드]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20211215/1d0f5ed4ceb75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		☕️☕️ 올해의 이슈 넘버 원]]></title>
-            <link>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9119347&amp;t=board</link>
-            <guid>https://coffeepot.me/library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9119347&amp;t=board</guid>
-            <pubDate>Fri, 14 Jan 2022 17:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[1. 끝나지 않는 공급망 이슈, 2. 대체고기 소비 감소, 3. 레고의 공장]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20211211/f998f503b453a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
