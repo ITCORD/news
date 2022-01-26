@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 03:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 04:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알피(RP), "로봇으로 도장공사 가능.. 중대재해처벌법 대비해야"]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=78646</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=78646</guid>
+            <pubDate>Wed, 26 Jan 2022 04:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[중대재해처벌법 시행이 하루 앞으로 다가온 가운데 스마트 건설로봇 기업 RP(알피)의 박정규 대표가 로봇을 활용해 중대재해처벌법을 대비해야한다고 설명했다.  RP에 따르면 지난해 중대 재해 발생 수 670건 중 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_78646_16431706204929550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코나투스, 택시동승 서비스 규제샌드박스의 첫번째 합법화 사례로 1월 28일부터 법안 발효]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=77902</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 07:20:21 GMT</pubDate>
             <content:encoded><![CDATA[국내 최초 급여 선지급 서비스를 선보인 핀테크 스타트업 페이워치(Paywatch)가 해외 유명 투자사들이 주관하는 시드 펀딩 라운드에서 63억원 투자를 유치했다. 이번 투자는 미국 벤처 캐피탈사 서드프라임 등 해..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_61627_16426624554923688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트썸원, 미디어그룹 얼반웍스와 전략적 사업제휴(MOU)체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=60469</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=60469</guid>
-            <pubDate>Thu, 20 Jan 2022 05:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[비트썸원이 종합미디어그룹 얼반웍스와 음원 활용 협력을 위한 업무협약(MOU)을 체결했다고 20일 밝혔다.  이번 업무협약은 국내에서 활동 중인 프로듀서, 작곡가, 비트메이커와 같은 음악 창작자들의 음원을 적..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_60469_16426531724923462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
