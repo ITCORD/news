@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,14 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220116/561dd04b497ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1월 디데이에서 ‘헤드리스’ 우승 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=84883</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=84883</guid>
+            <pubDate>Thu, 27 Jan 2022 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)가 펀드 운용사와 이번달 디데이를 27일 공동 주최했다. 이날 행사에서 해드리스(대표 남궁지환)가 우승했다.   이번 행사는 일자리 창출을 위한 은행권일자리펀드 3차년..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_84883_16432760584931618.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스파크랩, 포항시와 ESG 스타트업 발굴 및 지원 업무 협약 체결 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=82614</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=82614</guid>
@@ -290,13 +298,6 @@
             <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
             <content:encoded><![CDATA[AI 풀필먼트 콜로세움이 올해 1월 초부터 시작한 `오늘배송 서비스`가 소상공인 셀러들의 명절 택배 배송에 큰 도움이 되고 있다.   27일 콜로세움에 따르면 소상공인 온라인 판매자 A씨의 경우, 최근 택배업계 내..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81363_16432430604930500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[`레드우즈파크` 과학기술정보통신부로부터 소프트웨어 진흥시설로 예비 지정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=80121</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=80121</guid>
-            <pubDate>Wed, 26 Jan 2022 08:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[뿌리깊은나무들이 원주 혁신도시에 추진중인 메타버스 스튜디오 `레드우즈파크`가 과학기술정보통신부가 지정하는 소프트웨어 진흥시설로 예비인가되었다고 26일 회사측이 밝혔다. 이는 국내 민간 기업이 진행하는 ..]]></content:encoded>
         </item>
     </channel>
 </rss>
