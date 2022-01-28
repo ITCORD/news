@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메이크업 고민 해결해주는 ‘VALLA’ 인터베스트에서 16억원 프리A 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=87700</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=87700</guid>
+            <pubDate>Fri, 28 Jan 2022 05:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 O2O 플랫폼 ‘VALLA’를 운영하는 주식회사 더발라(대표 임관령)가 16억원 규모의 프리 시리즈 A(Pre-A) 투자를 유치했다고 28일 밝혔다. 이번 투자는 인터베스트 주도 하에 기존 주주인 인포뱅크와 굿워..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_87700_16433458214932519.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루웨일컴퍼니, 프리시리즈A 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=85941</link>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
             <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)은 글로벌 카드 브랜드사 유니온페이(한국 지사장 이명호)와 글로벌 QR 결제 제휴에 관한 업무협약을 체결했다고 27일 밝혔다.  한결원과 유니온페이는 전세계 유..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81487_16432441494930530.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에누마, 인도네시아에 ‘에누마스쿨’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81438</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81438</guid>
-            <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 아동 교육 스타트업 에누마(대표:이수인)가 인도네시아어, 영어, 수학의 게임 기반 자기주도학습 프로그램 ‘에누마스쿨’을 출시했다고 27일 밝혔다.    `에누마스쿨`은 인도네시아 모든 지역 및 가정에서 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81438_16432437464930515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
