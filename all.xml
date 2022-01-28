@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,21 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220116/561dd04b497ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블루웨일컴퍼니, 프리시리즈A 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=85941</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=85941</guid>
+            <pubDate>Fri, 28 Jan 2022 01:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[블루웨일컴퍼니(대표 오상혁, 이하 블루웨일컴퍼니)가 어센도벤처스와 더인벤션랩으로부터 프리시리즈A 투자를 유치했다.  블루웨일컴퍼니는 국내 최초의 유휴공간 중개 플랫폼 기업으로, 개인, 기업, 기관이 다양한..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[`서울거래 비상장` 운영사 피에스엑스, 투자자 보호 4대 규정 발표 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=85925</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=85925</guid>
+            <pubDate>Fri, 28 Jan 2022 01:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[비상장 주식 중개 플랫폼 `서울거래 비상장`을 운영하는 피에스엑스(대표 김세영)는 월간 활성화 이용자 수 30만 명을 돌파하며 투자자 보호 정책과 시스템을 강화하는 투자자 보호 4대 규정을 발표했다. 서비스..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_85925_16433292784932067.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1월 디데이에서 ‘헤드리스’ 우승 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=84883</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=84883</guid>
@@ -282,22 +297,6 @@
             <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
             <content:encoded><![CDATA[디지털 아동 교육 스타트업 에누마(대표:이수인)가 인도네시아어, 영어, 수학의 게임 기반 자기주도학습 프로그램 ‘에누마스쿨’을 출시했다고 27일 밝혔다.    `에누마스쿨`은 인도네시아 모든 지역 및 가정에서 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81438_16432437464930515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메쉬코리아 부릉, 새벽배송 일 1만건 돌파.. 올해 10배 키운다 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81399</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81399</guid>
-            <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[IT 기반 종합 유통물류 브랜드 부릉(VROONG)을 운영하는 메쉬코리아(대표 유정범)가 지난해 새벽배송 물동량이 급등한 것에 힘입어 일 평균 물동량 1만건을 돌파했다고 27일 밝혔다. 이에 따라 올해 풀필먼트서비..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81399_16432434264930507.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜로세움, `오늘배송 서비스` 명절 택배 배송에 큰 도움 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81363</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81363</guid>
-            <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[AI 풀필먼트 콜로세움이 올해 1월 초부터 시작한 `오늘배송 서비스`가 소상공인 셀러들의 명절 택배 배송에 큰 도움이 되고 있다.   27일 콜로세움에 따르면 소상공인 온라인 판매자 A씨의 경우, 최근 택배업계 내..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81363_16432430604930500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
