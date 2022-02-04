@@ -16,6 +16,7 @@
 - 씨넷코리아: https://www.cnet.co.kr/feed/
 - CIO Korea: http://www.ciokorea.com/rss/feed/index.php
 - 보안뉴스: https://www.boannews.com/custom/news_rss.asp
+- 전자신문: https://www.etnews.com/rss/
 
 ## Newsletter
 - https://itcord.github.io/news/coffeepot.xml
