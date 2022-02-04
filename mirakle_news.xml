@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드로버, 빵야TV와 업무협약 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=102722</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=102722</guid>
+            <pubDate>Fri, 04 Feb 2022 09:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 넛잡으로 유명한 글로벌 콘텐츠기업 레드로버(060300)는 글로벌 라이브 스트리밍 플랫폼 업체인 빵야네트웍스(대표 정명석)와 신개념 꿈 해석 플랫폼 마이몽 솔루션을 통한 신규 서비스에 대한 업무 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_102722_16439598614937158.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메이크업 고민 해결해주는 ‘VALLA’ 인터베스트에서 16억원 프리A 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=87700</link>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
             <content:encoded><![CDATA[아산나눔재단(이사장 장석환)이 창업기회로부터 소외된 청년들의 창업을 지원하기 위한 글로벌 팀 창업 프로그램 ‘아산상회’ 4기 참여자를 모집한다고 27일 밝혔다.   아산상회는 아산 정주영 회장의 호인 ‘아..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81573_16432447964930550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한결원-유니온페이 인터내셔날, 글로벌 QR 결제 제휴 MOU 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81487</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=81487</guid>
-            <pubDate>Thu, 27 Jan 2022 01:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)은 글로벌 카드 브랜드사 유니온페이(한국 지사장 이명호)와 글로벌 QR 결제 제휴에 관한 업무협약을 체결했다고 27일 밝혔다.  한결원과 유니온페이는 전세계 유..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_81487_16432441494930530.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
