@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 06:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕️☕️ 낱말 게임이 만든 네트워크 효과 (커피팟)]]></title>
+            <link>https://coffeepot.me/library/?idx=10077584&amp;bmode=view</link>
+            <guid>https://coffeepot.me/library/?idx=10077584&amp;bmode=view</guid>
+            <pubDate>Sun, 06 Feb 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타가 만난 암초, 2. 스포티파이의 책임, 3. 워들이 뭐길래?]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220204/b6fc8be472f59.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[☕️☕️ 시장에 나오려는 다른 '대체 고기' (커피팟)]]></title>
             <link>https://coffeepot.me/longform/?idx=9948442&amp;bmode=view</link>
             <guid>https://coffeepot.me/longform/?idx=9948442&amp;bmode=view</guid>
             <pubDate>Thu, 03 Feb 2022 02:32:53 GMT</pubDate>
             <content:encoded><![CDATA[식어가고 있는 대체 고기 시장 업데이트]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220202/c1691269c2ede.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220206/b30b69cd7affc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[☕️☕️ 빅테크 빅딜의 2022년, 그 결과는? (커피팟)]]></title>
@@ -29,7 +37,7 @@
             <guid>https://coffeepot.me/library/?idx=9722782&amp;bmode=view</guid>
             <pubDate>Thu, 27 Jan 2022 01:12:54 GMT</pubDate>
             <content:encoded><![CDATA[1. 크리에이터 구독, 2. NFT 프로필 도입 이유, 3. 글로벌 전기차 판매량]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220125/4d3cffc028ded.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220206/06e013b7692d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[☕️☕️ 아마존의 새로운 실험 (커피팟)]]></title>
@@ -96,12 +104,33 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20211224/edc8b16c8e07e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[☕️ 사용자가 오래 머무르는 소셜미디어 (커피팟)]]></title>
-            <link>https://coffeepot.me/library/?idx=9192939&amp;bmode=view</link>
-            <guid>https://coffeepot.me/library/?idx=9192939&amp;bmode=view</guid>
-            <pubDate>Fri, 14 Jan 2022 17:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[1. 레딧(Reddit)의 IPO, 2. 뉴미디어 합병, 3. 줄여야 하는 갭]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20211221/aa0ed40a592fb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[☕️☕️ 낱말 게임이 만든 네트워크 효과 (커피팟)]]></title>
+            <link>https://coffeepot.me/library/?idx=10077584&amp;bmode=view</link>
+            <guid>https://coffeepot.me/library/?idx=10077584&amp;bmode=view</guid>
+            <pubDate>Sun, 06 Feb 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+					<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+												<a class="holder blocked _fade_link" href="/library/?idx=10077584&amp;bmode=view">
+							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220204/b6fc8be472f59.png);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 0px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									☕️☕️ 낱말 게임이 만든 네트워크 효과 									<!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-picture"></i></span>-->
+<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+<!--									-->								</div>
+								<div class="text text-block ">
+									<span></span>
+								</div>
+							</div>
+																											</a>
+											</div>
+				</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220204/b6fc8be472f59.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[☕️☕️ 시장에 나오려는 다른 '대체 고기' (커피팟)]]></title>
@@ -111,7 +140,7 @@
             <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
 					<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
 												<a class="holder blocked _fade_link" href="/longform/?idx=9948442&amp;bmode=view">
-							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220202/c1691269c2ede.jpg);  background-size: cover; background-position: 50% 50%;">
+							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220206/b30b69cd7affc.jpg);  background-size: cover; background-position: 50% 50%;">
 								<div class="card-head _card_head _img_wrap" style="height: 0px;">
 									<span>
 																			</span>
@@ -130,7 +159,7 @@
 																											</a>
 											</div>
 				</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220202/c1691269c2ede.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220206/b30b69cd7affc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[☕️☕️ 빅테크 빅딜의 2022년, 그 결과는? (커피팟)]]></title>
@@ -169,7 +198,7 @@
             <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
 					<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
 												<a class="holder blocked _fade_link" href="/library/?idx=9722782&amp;bmode=view">
-							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220125/4d3cffc028ded.jpg);  background-size: cover; background-position: 50% 50%;">
+							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220206/06e013b7692d2.jpg);  background-size: cover; background-position: 50% 50%;">
 								<div class="card-head _card_head _img_wrap" style="height: 0px;">
 									<span>
 																			</span>
@@ -188,36 +217,7 @@
 																											</a>
 											</div>
 				</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220125/4d3cffc028ded.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[☕️☕️ 아마존의 새로운 실험 (커피팟)]]></title>
-            <link>https://coffeepot.me/library/?idx=9654775&amp;bmode=view</link>
-            <guid>https://coffeepot.me/library/?idx=9654775&amp;bmode=view</guid>
-            <pubDate>Mon, 24 Jan 2022 04:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-					<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-												<a class="holder blocked _fade_link" href="/library/?idx=9654775&amp;bmode=view">
-							<div class="card_wrapper " style="background-image: url(https://cdn.imweb.me/thumbnail/20220124/1980c06dbe65b.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 0px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									☕️☕️ 아마존의 새로운 실험									<!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-picture"></i></span>-->
-<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-<!--									-->								</div>
-								<div class="text text-block ">
-									<span></span>
-								</div>
-							</div>
-																											</a>
-											</div>
-				</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220124/1980c06dbe65b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220206/06e013b7692d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드로버, 빵야TV와 업무협약 체결 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
