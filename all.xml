@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220206/06e013b7692d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한결원 "서울사랑상품권과 `서울페이+` 문제 신속 해결되도록 돕겠다" (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110869</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110869</guid>
+            <pubDate>Mon, 07 Feb 2022 08:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)이 서울사랑상품권과 `서울페이+`에서 발생하는 문제점에 대해서 한결원이 지원을 통해서 신속하게 해결하도록 돕겠다고 7일 밝혔다.  서울사랑상품권은 지난해 말까..]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[젤리크루, 협업 크리에이터 누적 정산액 30억원 돌파 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110517</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110517</guid>
@@ -290,14 +297,6 @@
             <pubDate>Mon, 07 Feb 2022 02:34:46 GMT</pubDate>
             <content:encoded><![CDATA[인터넷방송 플랫폼의 인기 BJ, 스트리머들은 현재 젊은 세대 사이에서 최고의 대화 소재다. 방송가에서 자취를 감췄던 연예인 A가 인터넷 방송을 시작했다는 이야기도, 유명 인터넷방송인 B의 월 소득이 직장인 연봉..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_108279_16441950024938596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드로버, 빵야TV와 업무협약 체결 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=102722</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=102722</guid>
-            <pubDate>Fri, 04 Feb 2022 09:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 넛잡으로 유명한 글로벌 콘텐츠기업 레드로버(060300)는 글로벌 라이브 스트리밍 플랫폼 업체인 빵야네트웍스(대표 정명석)와 신개념 꿈 해석 플랫폼 마이몽 솔루션을 통한 신규 서비스에 대한 업무 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_102722_16439598614937158.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
