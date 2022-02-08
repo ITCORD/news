@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,14 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220206/06e013b7692d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비건 클린뷰티 브랜드 딘토(Dinto) 3차 콜렉션 선 론칭 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=115626</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=115626</guid>
+            <pubDate>Tue, 08 Feb 2022 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[고전문학의 영감을 전하는 클린&amp;비건 코스메틱 브랜드 딘토(Dinto) 운영사 트렌드메이커(대표 안지혜)가 지난 4일 3차 콜렉션을 선 론칭했다고 밝혔다.  새롭게 선보이는 딘토의 3번째 컬렉션은 소비자의 의견을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_115626_16443052754940343.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카모아, 3년 연속 2배 이상 성장! 누적 거래대금 580억원 돌파 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114475</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114475</guid>
@@ -289,14 +297,6 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110869</guid>
             <pubDate>Mon, 07 Feb 2022 08:26:52 GMT</pubDate>
             <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)이 서울사랑상품권과 `서울페이+`에서 발생하는 문제점에 대해서 한결원이 지원을 통해서 신속하게 해결하도록 돕겠다고 7일 밝혔다.  서울사랑상품권은 지난해 말까..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[젤리크루, 협업 크리에이터 누적 정산액 30억원 돌파 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110517</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=110517</guid>
-            <pubDate>Mon, 07 Feb 2022 07:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이터 브랜드 커머스 플랫폼 젤리크루(대표 박준홍)가 협업 크리에이터 200여팀에게 19년 8월부터 지급한 누적 정산액이 30억원을 돌파했다고 7일 밝혔다. 2020년 5월 3억원이던 셀러 누적 정산액은 2021년 9..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_110517_16442177254939132.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
