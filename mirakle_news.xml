@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 23:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 장애인 HR솔루션 기업 ‘브이드림’, 시리즈 B 74억원 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=122882</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=122882</guid>
+            <pubDate>Thu, 10 Feb 2022 01:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 장애인 HR솔루션 기업 브이드림(대표 김민지)은 비에이파트너스 등으로부터 74억원 규모의 시리즈 B 투자를 유치하여, 약 100억원의 누적 투자금액을 달성했다고 10일 밝혔다.  이번 투자에는 기존 투자..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_122882_16444531334942273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아산나눔재단, ‘마루180·360’ 입주 스타트업 모집]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=117556</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 04:27:39 GMT</pubDate>
             <content:encoded><![CDATA[공유오피스 마이워크스페이스(대표 양희영)가 팁스(TIPS) 운영사인 더인벤션랩이 지정한 보육공간으로 등록됐다고 밝혔다.  팁스(Tech Incubator Program for Startup)는 중소벤처기업부의 민간주도형 기술창업 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114143_16442940674940105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에너지IT 소셜벤처…식스티헤르츠,  풍력 발전량 예측으로 중기부‘팁스’선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114025</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114025</guid>
-            <pubDate>Tue, 08 Feb 2022 04:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[에너지IT 소셜벤처 식스티헤르츠(대표 김종규)가 중소벤처기업부의 기술 창업 투자 프로그램인 ‘팁스(Tech Incubator Program for Start up)’에 최종 선정됐다.   식스티헤르츠는 풍력 발전량 예측 기술력을 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114025_16442927304940082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
