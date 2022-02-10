@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소셜벤처 닷, 혁신기업 국가대표 1000 선정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=125985</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=125985</guid>
+            <pubDate>Thu, 10 Feb 2022 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[소셜벤처 주식회사 닷(대표 김주윤, 성기광)이 대한민국의 ICT 기술을 대표하는 혁신기술개발 기업 중 하나로 꼽혔다. 닷은 중소벤처기업부 장관이 선정하는 미래 혁신성장을 이끌어 갈 ‘혁신기업 국가대표 1000..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_125985_16444774564942891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포토카드 컬렉팅 플랫폼 ‘포카마켓’, 12억 원 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=123336</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 06:26:00 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 기반 금융사 델리오(대표 정상호)가 지난해 비트코인, 이더리움 등의 가상자산 렌딩 및 예치 실적이 전년 동기대비 600% 이상 증가했다고 8일 밝혔다. 델리오는 종합 가상자산 금융사로 가상자산 예치,..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114350_16442957184940148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드체인 데이터 관리 솔루션 스타트업 ‘윌로그’,  ‘QR코드 기반의 물류 상태 모니터링 솔루션’ 특허 획득 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114294</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114294</guid>
-            <pubDate>Tue, 08 Feb 2022 06:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[콜드체인 데이터 관리솔루션 스타트업 ㈜윌로그(배성훈, 윤지현 각자대표)가 QR코드 기반의 물류 상태 모니터링 솔루션에 대한 특허를 획득했다고 8일 밝혔다.   윌로그는 자체 개발한 콜드체인 모니터링 디바이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114294_16443863624940133.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
