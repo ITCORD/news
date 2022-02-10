@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포토카드 컬렉팅 플랫폼 ‘포카마켓’, 12억 원 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=123336</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=123336</guid>
+            <pubDate>Thu, 10 Feb 2022 02:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP 포토카드 컬렉팅 앱 ‘포카마켓’ 운영사 ‘인플루디오’가 12억 원 규모의 프리 시리즈 A 투자를 유치했다고 10일 밝혔다. 라구나인베스트먼트, 콘텐츠테크놀로지스, 디캠프 등이 투자자로 참여했다.  포카..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_123336_16444574424942399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹케시 브랜치4.0에 횡령방지 시스템 장착]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=123315</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=123315</guid>
+            <pubDate>Thu, 10 Feb 2022 02:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[B2B 핀테크 선도 및 기업∙공공 자금관리 전문 회사 ‘웹케시(대표 강원주)’가 2월 중 중견·대기업 및 공공 자금관리 시스템 ‘브랜치4.0’에 횡령방지를 위한 ‘AI안심자금보고서’ 및 ‘FDS시스템’을 추..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_123315_16444572034942397.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 장애인 HR솔루션 기업 ‘브이드림’, 시리즈 B 74억원 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=122882</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 06:26:00 GMT</pubDate>
             <content:encoded><![CDATA[콜드체인 데이터 관리솔루션 스타트업 ㈜윌로그(배성훈, 윤지현 각자대표)가 QR코드 기반의 물류 상태 모니터링 솔루션에 대한 특허를 획득했다고 8일 밝혔다.   윌로그는 자체 개발한 콜드체인 모니터링 디바이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114294_16443863624940133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 커뮤니티 모두의연구소, 70억 원 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114213</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114213</guid>
-            <pubDate>Tue, 08 Feb 2022 06:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[커뮤니티 중심의 연구 및 교육 서비스를 제공하는&nbsp;(주)모두의연구소(대표 김승일)가&nbsp;KB인베스트먼트, 대교인베스트먼트 등으로부터&nbsp;70억 원&nbsp;규모의 투자를 유치했다.  AI 커뮤니티 모두의연..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114213_16442948084940121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이워크스페이스 강남 4호점, 팁스(TIPS) 운영사 지정 보육공간으로 등록]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114143</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=114143</guid>
-            <pubDate>Tue, 08 Feb 2022 04:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[공유오피스 마이워크스페이스(대표 양희영)가 팁스(TIPS) 운영사인 더인벤션랩이 지정한 보육공간으로 등록됐다고 밝혔다.  팁스(Tech Incubator Program for Startup)는 중소벤처기업부의 민간주도형 기술창업 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_114143_16442940674940105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
