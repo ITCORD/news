@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알파세대 타겟 `말랑이 온라인` 만든 후야호, 5억원 투자유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=130113</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=130113</guid>
+            <pubDate>Fri, 11 Feb 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 후야호(대표 전민영)가 끌림벤처스로부터 5억원의 시드 투자를 유치하였다. 후야호는 알파세대를 타겟으로 한 모바일 게임인 ‘말랑이 온라인’을 개발해 운영하고 있다.  알파세대는 Z세대의 다음 세대..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_130113_16445664304944324.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지식 비즈니스 플랫폼 라이브클래스(Liveklass) 운영사 퓨쳐스콜레,  20억원 규모 프리시리즈A 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=128023</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 09 Feb 2022 01:19:07 GMT</pubDate>
             <content:encoded><![CDATA[데스크톱 가상화 전문 기업 엔컴퓨팅은 가상화 인프라 구축, 통합 운영 유지 보수 및 오브젝트 스토리지 전문 기업인 요다정보기술과 가상화 데스크톱 인프라(VDI) 사업 총판 계약을 맺고 국내 망분리사업에 적..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_117457_16443666414940957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비건 클린뷰티 브랜드 딘토(Dinto) 3차 콜렉션 선 론칭 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=115626</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=115626</guid>
-            <pubDate>Tue, 08 Feb 2022 08:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[고전문학의 영감을 전하는 클린&amp;비건 코스메틱 브랜드 딘토(Dinto) 운영사 트렌드메이커(대표 안지혜)가 지난 4일 3차 콜렉션을 선 론칭했다고 밝혔다.  새롭게 선보이는 딘토의 3번째 컬렉션은 소비자의 의견을..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_115626_16443052754940343.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
