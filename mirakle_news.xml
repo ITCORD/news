@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고위드, 카드발급 특별심사 제도 도입 운영]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=140432</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=140432</guid>
+            <pubDate>Tue, 15 Feb 2022 01:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업을 위한 B2B 금융 솔루션 핀테크 기업 고위드(대표 김항기)가 비대면 카드발급 서비스 출시 이후 카드 발급 프로세스를 전면 개편했다고 15일 밝혔다.  고위드는 자체 개발한 대안신용평가 모델로 실시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_140432_16448878824946911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 기반 푸드 브랜드 빌더 `이코니크`, 20억 원 시리즈 A 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=140307</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=140307</guid>
+            <pubDate>Tue, 15 Feb 2022 01:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 기반 푸드 브랜드 빌더 ‘이코니크(공동대표 박상준, 전무원)가 20억 원 규모의 시리즈 A 투자를 유치했다고 15일 밝혔다. 이번 투자는 기투자사인 스트롱벤처스가 리드했으며, CJ제일제당과 파텍 파트너..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_140307_16448869434946886.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전호겸 구독경제 저자 겸 교수 "소상공인 지역 구독 서비스 구축해야"]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=138895</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 02:31:00 GMT</pubDate>
             <content:encoded><![CDATA[소화기관용 스마트 내시경을 개발하는 스타트업 ㈜메디인테크 (대표 이치원)가 에이티넘 인베스트먼트, 스마일게이트 인베스트먼트, 퓨처플레이로부터 80억 원 규모의 시리즈 A 라운드 투자를 유치했다고 14일 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_135923_16448008974945729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육아 스타트업 올디너리매직, ‘피카비 플레이키트’ 구독경제 타고 10배 성장]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=135903</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=135903</guid>
-            <pubDate>Mon, 14 Feb 2022 02:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[발달 육아 전문 스타트업 올디너리매직(대표 허청아)이 개발한 월령별 맞춤 놀잇감 `피카비 플레이키트`가 런칭 8개월 만에 매출이 10배 이상 오르는 성과를 거뒀다. 육아용품 구독경제 시대가 활성화되고 있는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_135903_16448006284945719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느새 국내 상륙 3개월차, 디즈니 플러스 성적표]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=135738</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=135738</guid>
-            <pubDate>Mon, 14 Feb 2022 02:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[작년 11월 12일, 콘텐츠계의 제왕으로 유명한 디즈니의 OTT 서비스 Disney+(이하 디즈니 플러스)가 한국 서비스를 정식으로 시작했다. 디즈니 플러스는 작년 초부터 한국 출시를 예고했었는데, 이를 두고 대중은 풍..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_135738_16447989624945668.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
