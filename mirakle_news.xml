@@ -4,9 +4,24 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠아이텍, 지난해 영업이익 132억원… 창사 이래 최대 실적 달성]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163698</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163698</guid>
+            <pubDate>Mon, 21 Feb 2022 02:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[비혈관용 스텐트 제조기업 엠아이텍(시너지파트너스그룹 계열사)이 2021년 연간 매출액 503억원, 영업이익 132억원, 당기순이익 122억원을 기록했다고 공시했다. 매출은 전년 동기대비 25% 증가했으며, 영업이익은 1..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고용시장 완만한 회복세에 구직 앱 이용도 활발]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163629</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163629</guid>
+            <pubDate>Mon, 21 Feb 2022 02:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16일 통계청에서 2022년 1월 고용동향을 발표했다. 이에 따르면 올해 1월 고용률은 59.6%로 전년동월대비 2.2%P 상승했으며, 실업률은 4.1%로 전년동월대비 1.6%P 하락했다고 한다. 산업별로는 보건업 및 사회..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163629_16454063064952571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와디즈-넥슨, ‘메이플스토리’ IP제품 펀딩 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163597</link>
@@ -70,22 +85,6 @@
             <pubDate>Wed, 16 Feb 2022 03:24:16 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 핀테크 전문기업 델리오(대표 정상호)가 가상자산사업자(VASP) 인가를 획득해 가상자산 예치⋅렌딩 1호 사업자가 됐다고 16일 밝혔다.  금융위원회 산하 금융정보분석원(FIU)은 지난달 가상자산사..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146440_16449780434948266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아임웹, 전 구글 출신 웹서비스 전문가 이동휘 CTO 영입]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146343</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146343</guid>
-            <pubDate>Wed, 16 Feb 2022 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[소상공인을 위한 쇼핑몰 솔루션 아임웹(대표 이수모)이 구글과 포티투닷을 거친 이동휘 씨를 최고기술책임자(CTO)를 신규 영입했다고 16일 밝혔다.   이동휘 신임 CTO는 구글코리아 제1호 개발자로 알려져 있다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146343_16449775434948242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[㈜미리디, 웹기반 디자인 솔루션 ‘미리캔버스’ 이용자 500만 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146281</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146281</guid>
-            <pubDate>Wed, 16 Feb 2022 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 생태계 혁신 스타트업 ㈜미리디(대표 강창석)가 자사 웹기반 디자인 솔루션 ‘미리캔버스’의 이용자가 500만 명을 돌파했다고 16일 밝혔다.  ‘미리캔버스’는 누구나 쉽고 편리하게 디자인을 할 수 있..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146281_16449771844948223.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
