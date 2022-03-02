@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["누구나 고객에 BNPL 서비스 제공한다" (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195226</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195226</guid>
+            <pubDate>Wed, 02 Mar 2022 05:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[하이엔드 BNPL(Buy Now Pay Later) 커머스 `로마드`를 운영하는 주식회사 리체에서 사업자를 대상으로 자사의 분납 솔루션을 `SaaS(Software as a Service)` 형태로 제공한다. 리체는 최근 수면테크 기업인 몽가타..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_195226_16461960194962014.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울교육청 입학준비금, 제로페이 모바일상품권으로 지급 시작 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195171</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 01:21:49 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)은 해외 현황 및 사례를 기반으로 한 공공 부문의 디지털 전환 전략을 담은  리포트를 발간했다고 25일 밝혔다.   4차 산업혁명 시대를 맞아 디지털 전..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_180088_16457495644957638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈, 2022 공식 파트너 모집 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=180054</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=180054</guid>
-            <pubDate>Fri, 25 Feb 2022 01:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)가 펀딩 메이커의 콘텐츠 제작과 마케팅 업무를 수행할 ‘2022 와디즈 공식 파트너’를 모집한다고 밝혔다.   지난해 와디즈에서 열린 펀딩 프로젝트는 1만 1천여 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_180054_16457493834957633.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
