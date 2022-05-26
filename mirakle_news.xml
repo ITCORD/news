@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HR 플랫폼 플렉스(flex), ‘관계의 힘’ 강조한 신규 브랜드 캠페인 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=465431</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=465431</guid>
+            <pubDate>Thu, 26 May 2022 05:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[HR 플랫폼 스타트업 ‘플렉스(flex)’가 배우 유지태를 모델로 한 신규 브랜드 캠페인을 선보인다고 26일 밝혔다.   플렉스는 26일, TV CF 시리즈 2편을 공개하고 대규모 브랜드 캠페인을 진행한다. ‘사람과 사람..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_465431_16535400095055578.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메쉬코리아 부릉, ‘한식벽제’그룹 이커머스 풀필먼트 협약]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=465350</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 May 2022 03:51:22 GMT</pubDate>
             <content:encoded><![CDATA[국내 대표 파이낸셜 커뮤니케이션 전문 기업 ㈜프레인키웨스트(대표 김태성)는 사명을 ㈜업사이드포텐셜앤컴퍼니(Upside potential &amp; Company, 이하 ‘업앤컴퍼니’)로 변경하고 기업 아이덴티티 강화 및 전문성..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_460757_16534439825053984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브이엔티지, TIPS 운영사로 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=460680</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=460680</guid>
-            <pubDate>Wed, 25 May 2022 03:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환 전문기업 브이엔티지(VNTG•대표 김태근)가 중소벤처기업부의 기술창업 투자 프로그램 ‘TIPS’(팁스•Tech Incubator Program For Startup Korea) 운영사로 선정됐다.    팁스는 민간과 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_460680_16534428565053955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
