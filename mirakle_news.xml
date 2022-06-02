@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베스핀글로벌, 더 안전한 클라우드 이용 지원 위한  ‘클라우드 보안 사고 예방  캠페인’ 실시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=486960</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=486960</guid>
+            <pubDate>Thu, 02 Jun 2022 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 클라우드 보안 위협을 차단하고 기업들이 더 안전하게 클라우드를 이용할 수 있도록 지원하기 위해 6월 한달간 ‘클라우드 보안 사고 예방 캠페인’..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_486960_16541359665062632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디렉터스컴퍼니, 컨템포러리 브랜드 ‘인스턴트펑크’ 인수]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=486821</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Jun 2022 02:09:07 GMT</pubDate>
             <content:encoded><![CDATA[암호화폐 및 웹 3.0 기업들에게 API 기반 은행 및 결제 서비스를 제공하는 플랫폼인 머지(Merge)가 시드 라운드에서 총 950만불(한화 약 117억원)의 투자를 유치했다고 2일 밝혔다.   이번 라운드는 옥토퍼스 벤..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_486514_16541318325062526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레온, 누구나 디지털 휴먼 제작 가능한 `클론 스튜디오` 런칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=486454</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=486454</guid>
-            <pubDate>Thu, 02 Jun 2022 02:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[AI 테크 스타트업 클레온이 누구나 무료로 디지털 휴먼을 제작할 수 있는 플랫폼 ‘클론 스튜디오’를 공식 런칭했다. 클론은 사진 단 1장과 10문장 이내의 짧은 음성만으로 게임 아바타를 만들 듯 원하는 디지..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_486454_16541315225062523.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
