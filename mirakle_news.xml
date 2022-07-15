@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코드스테이츠, 상반기 매출 140억원 돌파 ‘전년 대비 263% 성장’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=624615</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=624615</guid>
+            <pubDate>Fri, 15 Jul 2022 05:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 IT 인재양성 스타트업 코드스테이츠(대표 김인기)가 2022년 상반기 매출액이 140억원을 넘어섰다고 15일 밝혔다.   코드스테이츠는 IT 부트캠프 운영 역량을 바탕으로 꾸준히 사업을 다각화하며 가파..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_624615_16578526135108523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스트잇, 신규 브랜드 캠페인 ‘머스트 케어 프로그램’ 전개]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=623916</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Jul 2022 08:30:53 GMT</pubDate>
             <content:encoded><![CDATA[리테일 미디어 앱 `프리즘(PRIZM)`(대표이사 유한익)은 3인조 버추얼 K-POP 그룹 사공이호(SAGONG_EE_HO) 쇼케이스 라이브를 진행한다고 14일 밝혔다.  프리즘(PRIZM)은 RXC가 출시한 리테일 미디어 앱으로 MZ ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_619859_16577596605107119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이럭스, 서울시 ‘디지털 역량 강화 협의체’ 구성 기업 참여]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=619841</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=619841</guid>
-            <pubDate>Thu, 14 Jul 2022 08:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[에듀테크 리딩 그룹 에이럭스(대표 이치헌, 이다인)는 서울시가 발족한 ‘디지털 역량 강화 협의체’ 구성 기업에 중소기업으로는 유일하게 참여한다고 14일 밝혔다.  서울시가 추진하는 디지털 역량 강화 협의..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_619841_16577594105107113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
