@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 11:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 12:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리에이터 커머스 플랫폼 젤리크루, 영등포 타임스퀘어에 매장]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=838141</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=838141</guid>
+            <pubDate>Thu, 22 Sep 2022 12:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[핸드허그(대표 박준홍)의 크리에이터 커머스 플랫폼 `젤리크루`가 서울 영등포 타임스퀘어 지하 1층에 입점했다고 22일 밝혔다. 이로써 젤리크루는 3대 백화점과 MZ 세대들의 주요 쇼핑몰인 코엑스에 이어 타임스..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_838141_16638246905174559.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언더독스, SK넥실리스-사회연대은행과 ‘공유가게 2.0’ 신규 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=836683</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 12:58:04 GMT</pubDate>
             <content:encoded><![CDATA[“소비재 마케팅이나 기업 브랜딩 홍보에 주력했던 기업이 기업 가치를 높이기 위한 홍보에 관심을 가지기 시작했다. 최근에 크라우드 펀딩, 조각 투자 등 일반인도 투자할 수 있는 환경이 만들어지면서 파이낸..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_834779_16637475695173406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그루비, 국내 최대 디지털 마케팅 컨퍼런스 ‘맥스서밋 2022’ 연사 참여]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=833226</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=833226</guid>
-            <pubDate>Wed, 21 Sep 2022 12:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 플래티어(대표이사 이상훈)가 오는 9월 27일, 국내 최대 규모를 자랑하는 마케팅•애드테크 컨퍼런스인 `맥스서밋(Max Summit) 2022`에 연사로 참여한다고 21일 밝혔다.    올..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_833226_16637323825173014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
