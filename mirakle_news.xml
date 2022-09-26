@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 02:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 05:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에프엑스기어, LOTT 헬스버스 핵심기술 개발을 위한 총 125억 규모 계약 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=848476</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=848476</guid>
+            <pubDate>Mon, 26 Sep 2022 05:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내 XR, 디지털 휴먼 전문기업 에프엑스기어(FXGear, 대표 최광진)가 메타버스 플랫폼에서 모바일 서비스가 가능한 실존 유명 의사의 ‘디지털 닥터’ 구현에 성공했다고 밝혔다.  에프엑스기어는 소프텍코퍼레..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_848476_16641683405178116.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발란, 포츠 그룹과 국내 최초 온라인 독점 파트너십 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=847600</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Sep 2022 02:47:49 GMT</pubDate>
             <content:encoded><![CDATA[수출입 통관물류 솔루션 개발기업 로그인네트웍(대표 김정민)이 최근 새로운 플랫폼 ‘트레이드버스(TRADEVERSE)’를 개발해 출시했다.  트레이드버스는 화주사의 흩어져 있는 수출입 데이터를 관세청 기반으로 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_847203_16641532245177829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테이블매니저, KT로부터 전략적 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=847130</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=847130</guid>
-            <pubDate>Mon, 26 Sep 2022 02:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 예약 솔루션 스타트업 테이블매니저(대표 최훈민)가 KT(대표이사 구현모)로부터 20억원 규모의 전략적 투자를 유치했다고 밝혔다.  테이블매니저는 올 4월 KT의 ‘AI 통화비서’ 공동 사업자..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_847130_16641526735177824.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
