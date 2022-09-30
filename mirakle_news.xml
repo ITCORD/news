@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 11:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 13:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대기업과 협력하는 스타트업들]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=866296</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=866296</guid>
+            <pubDate>Fri, 30 Sep 2022 13:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국내외 대기업들과 스타트업 간의 전략적 투자와 협업이 활발하게 진행되고 있다. 대기업은 기술 인력을 모으고 사업부를 신설하는 대신, 독자적인 기술을 가진 스타트업에 투자하고 협력관계를 구축하는 방식..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_866296_16645252235183272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이프차-창톡, 상권 분석 빅데이터 활용에 대한 업무협약 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=864618</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Sep 2022 03:08:20 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 독서모임 커뮤니티 트레바리가 ‘세상을 더 지적으로 사람들을 더 친하게 만들자’는 자사 철학을 담아 새롭게 리뉴얼한 독서모임 커뮤니티 애플리케이션(앱) TREVARI의 정식 서비스를 시작했다고 30..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_864374_16644983775182790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 디데이 우승 기업 `제트에이아이`]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=862799</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=862799</guid>
-            <pubDate>Thu, 29 Sep 2022 10:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)가 29일 프론트원에서 개최한 디데이에서 ‘제트에이아이(대표 이지혁, 설형욱)’가 우승했다.   초기 스타트업의 데뷔무대인 이번 디데이에는 약 20대 1의 경쟁률을 뚫..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_862799_16644435355182122.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
