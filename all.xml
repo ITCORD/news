@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 07:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 08:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알지노믹스, 간암치료제 FDA 1/2상 임상시험 승인 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=896707</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=896707</guid>
+            <pubDate>Tue, 11 Oct 2022 08:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[알지노믹스(대표 이성욱)가 미국 FDA로부터 ‘RZ-001’의 1/2상 임상시험계획(IND) 승인을 받았다고 11일 밝혔다.  지난 6월에 식품의약품안전처로부터 임상시험계획 승인을 받아 진행중인 국내 임상시험의 연장선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_896707_16654667325192731.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친환경 MaaS 플랫폼 ‘네이버스’ 운영사 네이앤컴퍼니, 관광플러스팁스 선정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=895504</link>
@@ -77,15 +85,7 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=894831</guid>
             <pubDate>Tue, 11 Oct 2022 02:35:13 GMT</pubDate>
             <content:encoded><![CDATA[디지털전환을 주도하는 기업 (주)비즈니스캔버스(대표=김우진)는 금융위원회가 지정한 기술신용평가기관 NICE평가정보에서 진행하는 `투자용 기술신용평가(TCB: Tech Credit Bureau)`에서 우수한 평점으로 코스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_894831_16654474205192329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트베리, LG그룹 유망 스타트업 지원 행사 ‘슈퍼스타트 데이 2022’ 참가 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=894818</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=894818</guid>
-            <pubDate>Tue, 11 Oct 2022 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[친환경 모빌리티 충전 플랫폼 소프트베리(대표 박용희)가 LG그룹이 주최하는 유망 스타트업 지원 행사인 ‘슈퍼스타트 데이 2022’에 참가한다고 밝혔다.  슈퍼스타트 데이는 각 분야 전문가가 모여 LG그룹 계..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_894818_16654472175192327.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_894831_16654734065192329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
