@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 15:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 16:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최적 일자리 매칭 검색 서비스 ‘더벌자’ 운영사 웍스비, 팁스 선정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1107620</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1107620</guid>
+            <pubDate>Thu, 08 Dec 2022 16:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[AI(인공지능) 기반 긱이코노미 최적 매칭 검색엔진 기술(‘OBC’) 스타트업 웍스비(WorksBe)가 중소벤처기업부 팁스(TIPS)에 최종 선정되었다고 8일 밝혔다. 팁스(TIPS)는 민간 투자사가 투자한 기술 기반 스타트업..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1107620_16704798615267934.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원티드랩, 임플로이랩스와 ‘채용 매칭 공동 사업’ 업무협약 체결 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1106348</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Dec 2022 02:49:22 GMT</pubDate>
             <content:encoded><![CDATA[부동산 조각투자 플랫폼 펀블(대표 조찬식)이 2호 상장 공모 상품인 ‘해운대 엘시티’가 조기완판에 성공했다고 8일 밝혔다. 해당 상품은 11월 29일 오전 9시에 ‘펀블’ 앱에서 공모를 시작했으며, 공모 마감 하..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1105923_16704612035267398.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하우스미디어, 문화체육관광부 주관 ‘2022 여가친화기업’ 선정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1105871</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1105871</guid>
-            <pubDate>Thu, 08 Dec 2022 02:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 숏폼 리뷰 커머스 플랫폼 ‘하우스앱(Houseapp)’을 운영하는 하우스미디어(대표이사 김성민)는 문화체육관광부가 주관하는 ‘2022년 여가친화기업’에 선정됐다고 밝혔다. ‘여가친화기업 인증제도’는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1105871_16704606625267377.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
