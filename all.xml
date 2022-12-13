@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터프라이즈블록체인, 크리에이터와 팬이 함께 성장하는 커뮤니티 마켓 ‘어랏(A lot)’ 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1119963</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1119963</guid>
+            <pubDate>Tue, 13 Dec 2022 07:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[딥테크 기업 ‘엔터프라이즈블록체인’이 내 취향에 딱 맞는 크리에이터를 발견하고 함께 성장하는 커뮤니티 마켓 ‘어랏(A lot)’을 공식 출시했다. 최근 소비자가 원하는 취향을 콘텐츠로 제공하고 팬덤 방식으로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1119963_16709061615274004.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팀스파르타, ‘스파르타 1억 챌린지’ 시작...작심삼일 없이 코딩 수업 함께 완주해요! (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1118952</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 13 Dec 2022 02:56:16 GMT</pubDate>
             <content:encoded><![CDATA[건강 식단 추천 배송 서비스 ‘마이쉽단’을 운영하는 벙커키즈(대표 정승완)가 카카오벤처스와 스프링캠프, 라이징에스벤처스로부터 20억 원 규모 시리즈A 투자를 유치했다고 13일 밝혔다. 벙커키즈는 데이터와 알..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1118631_16708914025273587.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에듀테크 앱 어디가 잘 되나 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1116714</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1116714</guid>
-            <pubDate>Mon, 12 Dec 2022 11:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[정보기술(IT)이 결합된 교육 ‘에듀테크(edutech)’는 2020년 국내 코로나 확진 발생 이후 급속도로 활성화됐다. 감염병 확산 우려로 비대면 교육이 불가피해졌기 때문이다. 에듀테크는 단순한 온라인 교육을 뛰어넘..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1116714_16708221625272699.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
