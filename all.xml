@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자약 전문 기업 뉴아인, 편두통 치료기기 ‘일렉시아’ 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=24134</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=24134</guid>
+            <pubDate>Mon, 09 Jan 2023 03:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[전자약 연구개발 전문 기업 ‘뉴아인’이 편두통 치료 전자약, ‘일렉시아(ELEXIR)’를 정식 출시했다. 편두통은 뇌혈관 확장에 의한 혈관통 및 염증반응으로 이어진다. 일렉시아는 편두통 발작 시 받는 급성모드(6..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_24134_16732290035308137.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤시스, 입자 동역학 시뮬레이션 기업 ‘로키(Rocky)’ 인수 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=24044</link>
@@ -84,14 +92,6 @@
             <pubDate>Fri, 06 Jan 2023 04:25:54 GMT</pubDate>
             <content:encoded><![CDATA[KAIST 교원창업기업인 플루이즈가 미국 라스베이거스에서 열리는 CES2023에 참여했다고 6일 밝혔다. 플루이즈는 `소프트웨어 및 모바일 앱‘ 부문에서 CES 2023 혁신상을 수상했다. 플루이즈는 KAIST 전산학부 신인..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_18612_16730519425306483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지팍스 맥스업-디시인사이드 개죽이, NFT 콜라보 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=17906</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=17906</guid>
-            <pubDate>Fri, 06 Jan 2023 04:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[활동에 따른 보상을 지급하는 라이프스타일 슈퍼앱 ‘맥스업’이 디시인사이드가 발행한 ‘개죽이’ NFT와 콜라보에 나선다. 두 NFT의 콜라보에 따라 개죽이 NFT 홀더에게도 맥스업 서비스를 이용할 수 있도록 하면..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_17906_16729696215305018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
