@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 20:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 21:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨앤에이아이, CES 2023 부스 참여.. 합성AI 기술 알렸다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=29060</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=29060</guid>
+            <pubDate>Tue, 10 Jan 2023 21:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[AI 합성데이터 기업 씨앤에이아이(CN.AI, 대표 이원섭)는 5일부터 8일까지 미국 라스베이거스에서 열린 ‘CES 2023’에 참가해 성공적으로 전시를 마쳤다. 씨앤에이아이는 베네시안 엑스포 내 스타트업 전시관인 유..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_29060_16733303415310020.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘카스웍스’, ‘하우스플래너’ 운영사 아이콘 연말결산 리포트 공개]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=28113</link>
@@ -84,16 +92,6 @@
             <pubDate>Mon, 09 Jan 2023 01:40:37 GMT</pubDate>
             <content:encoded><![CDATA[비주얼 테크 솔루션 기업 포바이포(4by4, 대표: 윤준호)가 지난 5일부터 8일(현지시간)까지 미국 라스베이거스에서 열린 세계 최대 IT가전 박람회 ‘CES 2023’에서 마이크로 LED TV, 투명 OLED 등 혁신기술을 적용..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_23973_16732274415308091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이, CES서 경도인지장애 선별을 위한
-
-알츠가드 등 글로벌향 디지털 치료제 알려]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=23950</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=23950</guid>
-            <pubDate>Mon, 09 Jan 2023 01:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[하이(대표 김진우)가 지난 5일부터 8일까지 열린 ‘CES 2023’에 참여해 경도인지장애 선별을 위한 알츠가드 등 글로벌향 디지털 치료제(DTx) 3종을 선보였다고 9일 밝혔다. CES 2023은 미국 라스베이거스에서 열린..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_23950_16732270815308083.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
