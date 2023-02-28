@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 01:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호프만에이전시, 아태지역에 특화된 ‘테크플로머시’ 론칭 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=163546</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=163546</guid>
+            <pubDate>Tue, 28 Feb 2023 02:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘밸리에 본사를 둔 테크놀로지 전문 커뮤니케이션 기업 호프만에이전시가 아시아태평양(이하 APAC) 지역 테크 산업에 특화된 공공업무(Public Affairs, 이하 PA) 컨설팅을 제공하는 ‘테크플로머시(Techplomac..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_163546_16775499625370396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숏폼 전문 틱톡 공식 파트너 ‘숏뜨’,
 
@@ -82,14 +90,6 @@
             <pubDate>Tue, 28 Feb 2023 01:48:43 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 XR(eXtended Reality, 확장현실) 테크 기업 버넥트가 다음달 8일부터 10일까지 코엑스에서 열리는 ‘스마트공장 자동화산업전(SFAW) 2023’에 참가한다고 28일 밝혔다. 버넥트는 아시아 최대 규모의 스마트..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_162958_16775430625370197.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 스타트업 반암, 7억원 시드 투자 유치… 인재 확보 나선다 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=162949</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=162949</guid>
-            <pubDate>Tue, 28 Feb 2023 01:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 소재부품 스타트업 반암은 7억원 규모의 시드 투자를 유치했다고 28일 밝혔다. 이번 투자에는 DSC인베스트먼트 자회사인 액셀러레이터(AC) 슈미트와 고려대학교 기술지주회사가 참여했다. 반암은 지난해 1월..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_162949_16775427025370180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
