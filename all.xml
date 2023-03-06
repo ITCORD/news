@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 08:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관악아날로그, 70억 규모의 시리즈 A 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=179227</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=179227</guid>
+            <pubDate>Mon, 06 Mar 2023 09:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 전력 반도체 SoC 설계 기업인 관악아날로그가 70억원을 투자 받으며 시리즈 A 투자 유치에 성공했다고 6일 밝혔다. 이번 투자는 미래에셋벤처투자가 주도하고, 키움 인베스트먼트, GU투자, 컴퍼니케이파트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_179227_16780930815377896.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[커리어 플랫폼 서핏, 고역량 인재 채용 서비스 ‘커리어 제안’ 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=178962</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 06 Mar 2023 01:50:54 GMT</pubDate>
             <content:encoded><![CDATA[어플라이드 머티어리얼즈의 벤처캐피털(VC) 조직 ‘어플라이드 벤처스’가 국내 스타트업과 협력하고 혁신을 가속화하기 위해 ‘ASTRA(Applied Startup Technology and Research Accelerator) 코리아 2023’을 진행..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_176570_16780628415376670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, 멀티 클라우드 관리 플랫폼 ‘옵스나우360’ 본격 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=176555</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=176555</guid>
-            <pubDate>Mon, 06 Mar 2023 01:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 자동화와 AI를 활용한 원스탑 멀티 클라우드 관리 플랫폼 ‘옵스나우360(OpsNow360)’을 본격 출시한다. 옵스나우360은 베스핀글로벌이 클라우드 전문 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_176555_16780625415376657.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
