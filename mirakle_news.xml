@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 01:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 생성 영상 서비스 브이캣, 네이버 커머스솔루션마켓 입점]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=242376</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=242376</guid>
+            <pubDate>Wed, 29 Mar 2023 02:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[상품의 URL만 넣으면 상세페이지용 제품 영상을 자동제작하는 서비스 VCAT.AI(이하 브이캣)가 네이버 커머스솔루션마켓에 공식 입점했다. 브이캣은 디자인 전문가가 아니어도 누구나 광고 영상과 이미지를 쉽게 만..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_242376_16800553825408123.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠테, ‘22년 매출액 310억원으로 전년대비 140% 증가… 역대 최대 기록 달성]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=242161</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_242161_16800531615408036.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루나소프트,?KOTRA 주관 ‘2023 서비스BM 해외진출 지원사업’ 최종 선정]]></title>
+            <title><![CDATA[루나소프트, KOTRA 주관 ‘2023 서비스BM 해외진출 지원사업’ 최종 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=242125</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=242125</guid>
             <pubDate>Wed, 29 Mar 2023 01:47:48 GMT</pubDate>
             <content:encoded><![CDATA[이커머스 전문 IT솔루션 기업 루나소프트(대표 박진영)는 대한무역투자진흥공사(KOTRA, 코트라)가 주관하는 ‘2023 서비스BM(Business Model) 해외진출 지원사업’에 최종 선정됐다고 29일 밝혔다. 코트라의 서비스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_242125_16800528025408029.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_242125_16800558625408146.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펫 에듀테크 ‘브리딩’, 중기부 팁스 선정]]></title>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 08:27:22 GMT</pubDate>
             <content:encoded><![CDATA[소프트뱅크벤처스(대표 이준표)는 정지우 전 블랭크코퍼레이션(이하 블랭크) 부대표/CSO를 신임 투자 및 운영 파트너로 선임했다고 28일 밝혔다. 정지우 파트너는 올해 결성 예정인 벤처 펀드를 통해 국내 성장 단..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_240160_16799887225407060.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에듀핀테크 레몬트리, 자녀용돈관리 교육서비스 ‘퍼핀’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=240133</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=240133</guid>
-            <pubDate>Tue, 28 Mar 2023 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[에듀핀테크 기업 레몬트리(대표 이민희)가 자녀용돈관리 및 경제금융교육서비스 ‘퍼핀(first fintech for family, firfin)’을 출시했다고 28일 밝혔다. 퍼핀은 7세 이상 자녀 본인 명의 휴대폰으로 가입 가능하며..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_240133_16799884815407036.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
