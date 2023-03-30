@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 01:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 02:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비마이프렌즈, 라이브 스트리밍 기반 신규 서비스 ‘플링크(FLNK)’ 론칭 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=246393</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=246393</guid>
+            <pubDate>Thu, 30 Mar 2023 02:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 팬덤 비즈니스 기업 ‘비마이프렌즈(bemyfriends)’가 글로벌 엔터테인먼트사의 성공적인 팬덤 비즈니스를 위한 라이브 스트리밍 기반 신규 서비스 ‘플링크(FLNK)’를 론칭했다. ‘팬덤(Fandom)’과 아티스..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_246393_16801427425409752.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블라인드, 블라인드 지수 세부 결과 발표...“韓 직장인 2명 중 1명 지난해 이직 시도” (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=246075</link>
@@ -82,14 +90,6 @@ BETT SHOW 2023 참가.. ‘글로벌 사업 확대 신호탄’ (미라클 어�
             <pubDate>Thu, 30 Mar 2023 01:39:26 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 문서툴 ‘타입드(Typed)’를 운영하는 SaaS (서비스형 소프트웨어) 스타트업 비즈니스캔버스가  29일 세계적인 전략 컨설팅펌인 ‘아서디리틀(Arthur D.Little)’ 한국 지사, 초기 스타트업 엑셀러레이터인 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_245656_16801363215409520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 기반 학습 플랫폼 ‘콴다’, 학교 기출 서비스 대폭 개편… 전국구, 주요 과목 확장 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=245655</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=245655</guid>
-            <pubDate>Thu, 30 Mar 2023 01:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[콴다가 학교 기출 서비스를 개편하여 교육 슈퍼앱으로 한 걸음 더 다가섰다. AI 기반 학습 플랫폼 ‘콴다’ 운영사 매스프레소(대표 이용재)는 자사가 운영하는 학교 기출 서비스를 대폭 개편했다고 30일 밝혔다. ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_245655_16801363215409521.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
