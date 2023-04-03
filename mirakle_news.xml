@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 01:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이리얼트립, 패키지 여행 시장 진출…국내외 여행사 및 협력사 모집]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=256135</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=256135</guid>
+            <pubDate>Mon, 03 Apr 2023 01:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[여행 슈퍼앱을 서비스하는 (주)마이리얼트립(대표 이동건)이 지난 2월 신설된 B2B CIC(사내독립기업, Company in Company)를 통해 패키지 여행 시장을 본격 진출한다고 밝혔다. 지난해 2월 마이리얼트립은 하나투어..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_256135_16804851025414595.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버넥트, “XR이 산업 환경과 개인의 삶을 바꿀 것이다”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=250120</link>
@@ -82,16 +90,6 @@ E2E CX 전략 실행 위한 업무협약 체결]]></title>
             <pubDate>Thu, 30 Mar 2023 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표이사 김영덕)는 특허청(청장 이인실), 한국발명진흥회(회장 황철주)와 30일 공동 개최한 ‘디데이 X IP 비즈니스’에서 ‘팀워크(대표 정욱찬)’가 우승했다고 밝혔다. 디캠프는 지난..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_248772_16801669815410733.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인생네컷, 디자인 및 커뮤니티 기능 강화한
-
-‘인생네컷 앱’ 리뉴얼 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=246968</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=246968</guid>
-            <pubDate>Thu, 30 Mar 2023 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[㈜엘케이벤쳐스(대표 이호익)가 운영하는 프리미엄 셀프 포토 스튜디오 ‘인생네컷’이 ‘인생네컷 앱’을 30일(목) 리뉴얼 오픈한다. 인생네컷은 22년 1월 셀프 포토 스튜디오 업계 최초로 ‘인생네컷 앱’을 정식..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_246968_16801512015409960.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
