@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 22:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 23:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무무즈, 홈 화면 전면 개편… 큐레이션 기능, 숏폼 영상 콘텐츠 강화]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=388796</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=388796</guid>
+            <pubDate>Sun, 21 May 2023 23:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[씨엠아이파트너스가 운영하는 키즈 앤드 패밀리 라이프 스타일 플랫폼 무무즈(대표 이은주)는 고객 편의성 제고를 위해 홈 화면을 전면 개편했다고 22일 밝혔다. 이번 홈 개편은 아이를 키우는 가족의 라이프 스타..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_388796_16847109025478641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비젼사이언스, 中 렌즈 유통사 ‘라바이스’와 전략적 업무제휴 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=385916</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 May 2023 01:35:36 GMT</pubDate>
             <content:encoded><![CDATA[YG엔터테인먼트 걸그룹 블랙핑크의 첫 공식 게임이 정식 서비스를 시작한다. 국내 대표 아이돌 게임 제작사 테이크원컴퍼니(대표 정민채)는 ‘블랙핑크 더 게임’을 모바일 양대 마켓에 글로벌 동시 출시한다고 18..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_380586_16843713025474299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번개장터, 졸업사진 코스튬 전년대비 거래액 126% 증가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=380578</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=380578</guid>
-            <pubDate>Thu, 18 May 2023 01:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 패션 중고 거래 앱 번개장터(공동대표 강승현 최재화)가 최근 2주간 (5월 1일~5월 14일) 전체 테마 이벤트 의류 카테고리의 거래액이 전년 동기 대비 50% 증가했다고 밝혔다. 이와 함께 같은 기간 남성 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_380578_16843711825474291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
