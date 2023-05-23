@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 06:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인포플러스, 베트남 투자 개발 은행(BIDV)에 CMS 제공 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=393724</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=393724</guid>
+            <pubDate>Tue, 23 May 2023 07:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[베트남 디지털 금융 솔루션 제공 기업 인포플러스(대표 김민호)가 베트남 자산규모 1위은행 베트남투자개발은행(이하 BIDV)에 자사의 자금관리서비스 솔루션인 infoCMS를 제공한다고 오늘 5월23일 BIDV본사에서 개..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_393724_16848231625480883.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리콘랩스, ‘전문연구요원’ 병역지정업체 선정 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=393206</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 May 2023 01:41:28 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 행동 분석 스타트업 플레이태그는 40억 원 규모의 프리 시리즈A 투자를 유치했다고 23일 밝혔다. 이번 투자는 CJ인베스트먼트 주도하에 BNK벤처투자, DSC인베스트먼트, KB인베스트먼트가 참여했다. 플..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_392074_16848015015480336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케어닥, 신개념 시니어케어 주거형 요양시설 ‘케어닥 케어홈’ 런칭 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=391973</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=391973</guid>
-            <pubDate>Tue, 23 May 2023 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 토탈 케어 플랫폼 케어닥(대표 박재병)이 오는 6월 기린종합건설과 손잡고 전문 건강 관리 및 돌봄 프로그램을 제공하는 주거형 하이엔드 요양시설 브랜드 ’케어닥 케어홈‘을 새롭게 런칭하며 관련 사업 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_391973_16847997015480305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
