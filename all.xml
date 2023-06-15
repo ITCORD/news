@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 01:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼스널 아이웨어 스타트업 브리즘, 개인 맞춤형 티타늄 선글라스 3종 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=452424</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=452424</guid>
+            <pubDate>Thu, 15 Jun 2023 02:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[퍼스널 아이웨어 스타트업 브리즘(대표이사 성우석, 박형진)이 국내 최초의 개인 맞춤형 티타늄 선글라스를 정식 출시했다고 15일 밝혔다. 브리즘은 지난해 출시한 티타늄 소재의 맞춤형 안경에 이어 개인 맞춤형 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_452424_16867936215509005.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생성 Ai와 웹 3가 만나는 미래기술의 전망과 전략 ‘더 웨이브 서울’(The WAVE Seoul) 28일 코엑스 개최 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=452408</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Jun 2023 02:43:21 GMT</pubDate>
             <content:encoded><![CDATA[“돈을 관리해주는 플랫폼은 많지만 건강을 관리해주는 플랫폼은 없다. 건강 수명을 늘리는 게 우리의 미션이다. 국민서비스화해서 모든 사람이 사용할 수 있도록 하겠다.” 강남 소재 필라이즈 사무실에서 만난 신..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_448992_16867089625507608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 공간관리 프랜차이즈 클리니어위드, 30호점 돌파 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=448610</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=448610</guid>
-            <pubDate>Wed, 14 Jun 2023 01:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국공간데이터는 한국공간데이터 공간관리 전문가 프랜차이즈 사업인 ‘클리니어위드’가 30호점을 달성했다고 14일 밝혔다. ‘클리니어위드’는 B2B 청소 서비스부터 시작하여 비품 관리, 수리, 인테리어, 유지보..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_448610_16867051225507473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
