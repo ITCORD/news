@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 22:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 23:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체식품 푸드테크 기업 인테이크, 80억 투자 유치 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=500869</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=500869</guid>
+            <pubDate>Sun, 02 Jul 2023 23:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[대체식품 개발 푸드테크 기업 인테이크(INTAKE)가 총 80억원 규모의 시리즈B 투자를 유치했다. 이로써 누적 투자 유치 금액은 153억을 넘었다. 이번 시리즈 라운드는 ATU 파트너스가 리드 투자자로 참여하고, BNH ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_500869_16883399415531475.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채널코퍼레이션, 일본 패션 플랫폼 ‘터미널’과 온라인 사업자 대상 세미나 성료 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495622</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 01:52:41 GMT</pubDate>
             <content:encoded><![CDATA[국내 1위 미용의료 정보 앱 바비톡은 이용자 편의성 및 정보 제공 기능을 강화한 업그레이드 버전 ‘바비톡 2.0’을 정식 출시한다고 30일 밝혔다. 이번 업데이트는 성형 및 피부시술 탭을 분리하고, 지역, 후기, ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495358_16880819425528719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트뱅크벤처스, 싱가포르 호텔 운영 관리 플랫폼 주주 호스피탈리티에 130억원 규모 시리즈B2 투자 주도 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495340</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495340</guid>
-            <pubDate>Fri, 30 Jun 2023 01:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[소프트뱅크벤처스는 싱가포르의 주주 호스피탈리티(ZUZU Hospitality 대표 비크람 말리)에 약 130억원을 공동 투자했다고 30일 밝혔다. 이번 시리즈B2 라운드는 소프트뱅크벤처스의 주도로 에이티넘파트너스, 우신..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495340_16880814025528714.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
