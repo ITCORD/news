@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 01:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근페이, ‘사기 의심 계좌 알림’ 기능 도입 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=501845</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=501845</guid>
+            <pubDate>Mon, 03 Jul 2023 03:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 지역생활 커뮤니티 당근마켓(각자대표 김용현, 황도연)은 지역 기반 간편송금결제 서비스 ‘당근페이’에 ‘사기 의심 계좌 알림’ 기능을 도입하여 더욱 강력한 이용자 보호망을 구축한다고 3일 밝혔다...]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_501845_16883505615531848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리디, 넥슨 출신 이병욱 CBDO 영입… 글로벌 IP 사업 확장 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=501685</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 01:52:41 GMT</pubDate>
             <content:encoded><![CDATA[버드뷰가 운영하는 모바일 뷰티 플랫폼 화해는 중국 틱톡(도우인)에 플래그십 스토어를 오픈했다고 30일 밝혔다. 화해는 중국 최대 라이브커머스 채널로 등극한 중국판 틱톡에 단독 브랜드관인 ‘화해 플래그십 스..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495590_16880854825528809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옴니어스, 카카오톡 채널 연계 AI 검색 챗봇 ‘스타일챗 플러그인’ 출시 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495543</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495543</guid>
-            <pubDate>Fri, 30 Jun 2023 01:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[초 개인화 커머스 AI 기업 옴니어스(대표 전재영)가 카카오톡에 입점한 커머스 업체들의 채널에 검색과 추천을 통해 구매까지 연결해 주는 대규모 언어 모델(LLM) 기반 AI 검색 챗봇 ‘스타일챗 플러그인’을 출시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495543_16880850615528787.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
