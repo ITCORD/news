@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 01:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 02:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀스파르타, 내일배움캠프 신규 트랙 ‘실무형 유니티(Unity) 게임 개발자 양성 과정’ 론칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=524400</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=524400</guid>
+            <pubDate>Tue, 11 Jul 2023 02:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[에듀테크 스타트업 팀스파르타(대표 이범규)가 미래 게임 개발 인재 육성을 위한 내일배움캠프 신규 트랙 ‘실무형 유니티(Unity) 게임 개발자 양성 과정’을 론칭했다고 11일 밝혔다. 팀스파르타는 게임 산업 시장..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_524400_16890412715542417.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딥브레인AI, AI 휴먼 활용한 교육 서비스로 에듀테크 시장 공략 나선다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=524303</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jul 2023 01:59:30 GMT</pubDate>
             <content:encoded><![CDATA[라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 펀딩 성공 제품을 상시 판매하는 와디즈스토어의 익일 배송 서비스인 ‘와배송’을 개편했다고 10일 밝혔다. 와배송은 메이커의 상품을 와디즈 전용 풀필먼트 센터..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_520983_16889523625540911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘소부장 대표 기술 총망라’ CoMPEX KOREA 2023, ‘소부장 밸류체인 세미나’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=520894</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=520894</guid>
-            <pubDate>Mon, 10 Jul 2023 01:59:30 GMT</pubDate>
-            <content:encoded><![CDATA[급속하게 변화하는 소부장 산업 생태계와 미래첨단산업 신공급망 구축을 위한 ’소부장 밸류체인 전문 세미나‘가 오는 26일부터 28일까지 3일간 진행된다. 소부장 밸류체인 전문 세미나는 2023 소재부품장비 중소..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_520894_16889513415540872.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
