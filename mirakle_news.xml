@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제네시스랩, AI 영상 면접 솔루션 ‘뷰인터HR’ 신규 버전 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=573002</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=573002</guid>
+            <pubDate>Thu, 27 Jul 2023 02:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[AI 전문 기업 제네시스랩(대표 이영복)이 업계 최초 AI 휴먼을 탑재하는 등 다양한 기능이 추가된 AI 영상면접 솔루션 ‘뷰인터HR 2.0’ 버전을 새롭게 출시했다고 27일 밝혔다. ‘뷰인터HR(viewinter HR)’은 전문..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_573002_16904215815562924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당근마켓, 동네생활에 ‘투표’ 기능 도입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=572971</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 27 Jul 2023 01:27:39 GMT</pubDate>
             <content:encoded><![CDATA[온라인 홈트레이닝 플랫폼 콰트(QUAT)를 운영하는 엔라이즈(대표 김봉기)가 삼성전자의 프리미엄 태블릿 최신작인 ‘갤럭시 탭 S9 시리즈’에 콰트가 제휴 애플리케이션으로 탑재됐다고 27일 밝혔다. 콰트는 갤럭시..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572507_16904160615562817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 원하는 N잡의 요건은? 보다 쉽게, 보다 빠르게]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=572460</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=572460</guid>
-            <pubDate>Thu, 27 Jul 2023 01:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[평생 직장이라는 개념이 사라지고 있다. 실제 통계도 N잡 확산을 가리키고 있다. MZ세대를 중심으로 N잡러가 확산되는 데는 ‘디지털 노마드(Digital Nomad)’ 라이프스타일이 주요 요인으로 꼽힌다. MZ세대는 장소..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572460_16904154025562794.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
