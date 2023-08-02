@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big ─ 뉴스종합종합</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 01:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 02:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장사 컨설팅 앱 ‘창톡’ 상담 무료 & 할인 프로모션]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588583</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588583</guid>
+            <pubDate>Wed, 02 Aug 2023 02:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[장사 컨설팅 플랫폼 창톡이 오는 8월 13일까지 상담료 20% 할인 프로모션을 진행한다고 밝혔다. 여름 휴가 기간을 맞아 자영업자들이 휴식을 취함과 동시에, ‘장사의 신’들과 1:1 컨설팅을 통해 매출 향상을 적극..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588583_16909408215570230.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차봇, 운전자 오디오 콘텐츠 ‘차봇 라디오’ 론칭... 콘텐츠 서비스 강화]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588426</link>
@@ -61,7 +69,7 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588090</guid>
             <pubDate>Wed, 02 Aug 2023 01:24:14 GMT</pubDate>
             <content:encoded><![CDATA[의료 데이터 플랫폼 기업 제이앤피메디(대표 정권호)가 공격적인 인재 영입을 통해 본격적인 사세 확장에 나선다고 2일 밝혔다. 제이앤피메디는 하반기 대규모 채용을 통해 개발본부(CXD)에서 두 자릿수 규모의 신..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588090_16909332615570013.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588090_16909414825570253.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북아이피스, 에듀테크 기업을 위한 ‘B2B 요금제’ 출시]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Aug 2023 01:24:14 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 독서 플랫폼 밀리의 서재(대표 서영택)는 독자들이 일상 속에서 더 적극적으로 독서를 즐길 수 있도록 ‘즐거운 독서생활 1일 1밀리’ 서비스를 오픈했다고 2일 밝혔다. ‘즐거운 독서생활 1일 1밀리’는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588074_16909325415570009.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹케시, ‘웹케시대시보드’에 ‘FDS’ 기능 추가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=585609</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=585609</guid>
-            <pubDate>Tue, 01 Aug 2023 02:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[B2B 핀테크 전문 기업 웹케시가 자사 상품 통합 자금 보고서 ‘웹케시대시보드’에 이상 거래 감지 시스템(이하 FDS) 기능을 업데이트해 새롭게 선보인다고 1일 밝혔다. 웹케시대시보드는 기업과 계열사, 해외 지사..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_585609_16908547815568820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
