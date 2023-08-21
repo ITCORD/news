@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 22:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 23:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필라이즈, 120억 규모 시리즈A 투자 유치 … 국민 건강관리 앱이 목표 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=636669</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=636669</guid>
+            <pubDate>Mon, 21 Aug 2023 23:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[초개인화 영양 관리 플랫폼 필라이즈(대표 신인식)가 120억원 규모의 시리즈A 투자 유치를 마무리했다고 22일 밝혔다. 이로써 필라이즈의 누적 투자금은 150억원이다. 이번 투자는 캡스톤파트너스가 리드했다. 이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_636669_16926594025594314.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올인원 비즈니스 메신저 채널톡, ‘정보보호관리체계(ISMS)’ 인증 획득 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=634295</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Aug 2023 01:12:52 GMT</pubDate>
             <content:encoded><![CDATA[엔라이즈는 자사가 운영하는 소셜 디스커버리 서비스 위피(WIPPY)의 올해 상반기 영업이익이 전년 동기 대비 52% 신장했다고 17일 밝혔다. 코로나 이후 매칭앱을 통해 관계를 확장하는 2030이 늘어나면서 나타난 현..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_625931_16922311815588290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이너, ‘AI 워크스페이스’ 출시…국내 첫 ‘자율 AI 에이전트’ 공개 (미라클 어헤드 ─ Think Big ─ 뉴스종합종합)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=625921</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=625921</guid>
-            <pubDate>Thu, 17 Aug 2023 01:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[초개인화 생성 AI 스타트업 ‘라이너(LINER, 대표 김진우)’가 국내 첫 자율 AI 에이전트 서비스인 ‘AI 워크스페이스’를 출시했다고 17일 밝혔다. ‘자율 AI 에이전트(Autonomous AI Agent)’는 사람의 개입 없이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_625921_16922309415588287.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
