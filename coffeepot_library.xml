@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coffeepot.me/library</id>
     <title>커피팟 ─ 라이브러리</title>
-    <updated>2024-01-16T13:23:21.244Z</updated>
+    <updated>2024-01-16T14:19:03.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.imweb.me/thumbnail/20220712/bfbb33fd0387e.png</icon>
+    <icon>https://coffeepot.me/favicon.ico</icon>
 </feed>
