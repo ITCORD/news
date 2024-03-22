@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coffeepot.me</id>
     <title>커피팟</title>
-    <updated>2024-03-22T05:21:06.427Z</updated>
+    <updated>2024-03-22T06:23:48.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.imweb.me/thumbnail/20220712/bfbb33fd0387e.png</icon>
+    <icon>https://coffeepot.me/favicon.ico</icon>
 </feed>
